@@ -1,0 +1,2 @@
+[console_scripts]
+flet-mvc = mvc_commands.cli:cli
